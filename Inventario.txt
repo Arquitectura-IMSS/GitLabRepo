@@ -1,4 +1,0 @@
-uno.txt
-dos.txt
-tres.txt
-cuatro.txt
